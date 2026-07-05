@@ -1,2 +1,4 @@
 mcp
 Pillow
+opencv-python
+numpy
